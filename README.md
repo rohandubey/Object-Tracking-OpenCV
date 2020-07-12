@@ -25,6 +25,7 @@ You need to have installed following softwares and libraries in your machine bef
 2. Anaconda: It will install ipython notebook and most of the libraries which are needed like sklearn, pandas, seaborn, matplotlib, numpy, PIL.
 3. OpenCV: Image processing library.
 ## Data 
+_**Download Goturn caffemodel from**_ https://github.com/Mogball/goturn-files
 1. 4 videos for different objct tracking scenarios.
 2. _'haarcascade_frontalface_default.xml'_ for face detection.
 3. GoTurn Model.
