@@ -41,9 +41,9 @@ You need to have installed following softwares and libraries in your machine bef
 5. flask: ```pip3 install flask```
 6. goturn(.caffemodel and .prototxt): Attached in the folder : Data/.
 ## Built With
-* ipython-notebook - Python Text Editor
+* ipython-notebook - iPython Text Editor
 * OpenCV - It is used for processing images
-* Flask: Flask is a micro web framework written in Python. It is a lightweight WSGI web application framework.
-* GoTurn(Caffe model): Model for effective object tracking.
+* Flask - Flask is a micro web framework written in Python. It is a lightweight WSGI web application framework.
+* GoTurn(Caffe model) - Model for effective object tracking.
 ## Authors
 Rohan Dubey - Complete work
