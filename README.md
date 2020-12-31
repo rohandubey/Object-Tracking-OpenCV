@@ -46,4 +46,4 @@ You need to have installed following softwares and libraries in your machine bef
 * Flask - Flask is a micro web framework written in Python. It is a lightweight WSGI web application framework.
 * GoTurn(Caffe model) - Model for effective object tracking.
 ## Authors
-Rohan Dubey - Complete work
+Made with ❤️ Rohan Dubey - Complete work
